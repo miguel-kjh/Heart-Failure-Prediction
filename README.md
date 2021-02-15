@@ -13,9 +13,6 @@ This work consists of the analysis of different estimators for the detection of 
 - Random forest
 - AdaBoost
 - XGBoost
-
-## Deep Learning Model
-
 - Neuronal Network
    - Optimizer: Adam
    - Loss: Binary Crossentropy
